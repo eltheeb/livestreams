@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=946000,RESOLUTION=640x360
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1900000,RESOLUTION=640x360
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=640x360
+https://silent-pine-fb33.winges.workers.dev/?url=https://www.youtube.com/user/telesurtv/live
