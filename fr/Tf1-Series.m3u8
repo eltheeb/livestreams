@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=946000,RESOLUTION=640x360
-https://s6.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=11856989
+https://s6.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=11856989mmm
 #EXT-X-STREAM-INF:BANDWIDTH=946000,RESOLUTION=640x360
 http://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
