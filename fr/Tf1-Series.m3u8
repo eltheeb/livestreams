@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=992101,RESOLUTION=640x360,CODECS="avc1.77.30,mp4a.40.2"
-https://s6.tntendirect.com/hd1/live/playlist.m3u8
+https://s6.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=11862495
 #EXT-X-STREAM-INF:BANDWIDTH=992101,RESOLUTION=640x360,CODECS="avc1.77.30,mp4a.40.2"
 http://delux-iptv.com:8000/AMineLocal/Locaalrk/17339
