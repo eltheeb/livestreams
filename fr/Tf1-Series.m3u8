@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=992101,RESOLUTION=640x360,CODECS="avc1.77.30,mp4a.40.2"
-https://s6.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=11856989
+https://s6.tntendirect.com/hd1/live/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=992101,RESOLUTION=640x360,CODECS="avc1.77.30,mp4a.40.2"
-http://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+http://delux-iptv.com:8000/AMineLocal/Locaalrk/17339
