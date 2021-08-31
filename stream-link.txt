@@ -1,2 +1,7 @@
 history 
 https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_1.m3u8?PEDROJUNIORTUTORIAIS
+https://my.odtv.uk:443/get.php?username=9186897972&password=454523&type=m3u
+http://51.159.34.250:25461/get.php?username=Nrodrigez7890&password=nG2XixNsfk&type=m3u
+http://liontv.me:80/get.php?username=teggft384783&password=eudbeu39489&type=m3u
+http://channels227070.clientportal.link:80/get.php?username=Damir256&password=pZWeRm508&type=m3u
+http://tv.iptv5latino.cl:8080/get.php?username=1wilmaru&password=mvzsGgWzmk&type=m3u
